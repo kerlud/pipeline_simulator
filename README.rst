@@ -1,3 +1,5 @@
+CPU模拟器, 使用方式参考: https://zhuanlan.zhihu.com/p/37128423
+
 ps.py:pipeline simulation
 =========================
 
